@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sai_Shubham_Tours_Travels/static/css/main.9653844d.css",
+    "main.js": "/Sai_Shubham_Tours_Travels/static/js/main.cb3a6a6c.js",
+    "static/media/car-service.png": "/Sai_Shubham_Tours_Travels/static/media/car-service.5018d3753b4c60222cda.png",
+    "static/media/slider-1.jpg": "/Sai_Shubham_Tours_Travels/static/media/slider-1.d2bec318eed03a9b10e2.jpg",
+    "index.html": "/Sai_Shubham_Tours_Travels/index.html",
+    "main.9653844d.css.map": "/Sai_Shubham_Tours_Travels/static/css/main.9653844d.css.map",
+    "main.cb3a6a6c.js.map": "/Sai_Shubham_Tours_Travels/static/js/main.cb3a6a6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9653844d.css",
+    "static/js/main.cb3a6a6c.js"
+  ]
+}
